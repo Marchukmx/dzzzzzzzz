@@ -77,8 +77,8 @@ mmenu.add_item(salad)
 mmenu.add_item(soup)
 
 zakaz = Order()
-zakaz.add_item(піца)
-zakz.add_item(суп)
+zakaz.add_item(pizza)
+zakaz.add_item(salad)
 
 nikas = Restaurant()
 nikas.menu = mmenu
